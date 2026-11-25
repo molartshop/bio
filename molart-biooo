@@ -143,7 +143,7 @@
             <!-- ЗАМЕНИТЕ ССЫЛКИ (href="...") НА СВОИ -->
             
             <!-- Кнопка менеджера (сделаем ее первой) -->
-            <a href="https://t.me/molart_manager" class="link-card" target="_blank">
+            <a href="https://t.me/MolartManager" class="link-card" target="_blank">
                 <div class="link-icon manager-color"><i class="fa-solid fa-headset"></i></div>
                 <div class="link-text">
                     <span class="link-title">Написати менеджеру</span>
